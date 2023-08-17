@@ -1,0 +1,26 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tiff", "libtiff\tiff.vcxproj", "{BACF8FB2-1248-30A1-818B-CD80AA64536D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BACF8FB2-1248-30A1-818B-CD80AA64536D}.vs2019_Debug|x64.ActiveCfg = vs2019_Debug|x64
+		{BACF8FB2-1248-30A1-818B-CD80AA64536D}.vs2019_Debug|x64.Build.0 = vs2019_Debug|x64
+		{BACF8FB2-1248-30A1-818B-CD80AA64536D}.vs2019_Release|x64.ActiveCfg = vs2019_Release|x64
+		{BACF8FB2-1248-30A1-818B-CD80AA64536D}.vs2019_Release|x64.Build.0 = vs2019_Release|x64
+		{BACF8FB2-1248-30A1-818B-CD80AA64536D}.vs2022_Debug|x64.ActiveCfg = vs2022_Debug|x64
+		{BACF8FB2-1248-30A1-818B-CD80AA64536D}.vs2022_Debug|x64.Build.0 = vs2022_Debug|x64
+		{BACF8FB2-1248-30A1-818B-CD80AA64536D}.vs2022_Release|x64.ActiveCfg = vs2022_Release|x64
+		{BACF8FB2-1248-30A1-818B-CD80AA64536D}.vs2022_Release|x64.Build.0 = vs2022_Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3E4D9FD-BD31-312A-9D4C-39CBF3618976}
+	EndGlobalSection
+EndGlobal

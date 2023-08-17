@@ -1,0 +1,74 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckCCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindGLUT.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/Internal/CheckCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/TestBigEndian.cmake
+N:/Development/Dev_Base/tiff-4.5.1/CMakeLists.txt
+N:/Development/Dev_Base/tiff-4.5.1/cmake/AutotoolsCompat.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/AutotoolsVersion.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/CXXLibrary.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/CompilerChecks.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/DeflateCodec.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/FindCMath.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/FindDeflate.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/FindJBIG.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/FindJPEG.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/FindLERC.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/FindWebP.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/FindZSTD.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/Findliblzma.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/IncludeChecks.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/InternalCodecs.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/JBIGCodec.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/JPEGCodec.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/LERCCodec.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/LZMACodec.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/LargeFileSupport.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/LibraryFeatures.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/LinkerChecks.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/OpenGLChecks.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/PixarLogCodec.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/PkgConfig.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/ProcessorChecks.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/Release.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/SymbolChecks.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/TypeSizeChecks.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/WebPCodec.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/WindowsSupport.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/ZSTDCodec.cmake
+N:/Development/Dev_Base/tiff-4.5.1/libtiff-4.pc.in
+N:/Development/Dev_Base/tiff-4.5.1/msvc/CMakeFiles/3.20.0/CMakeCCompiler.cmake
+N:/Development/Dev_Base/tiff-4.5.1/msvc/CMakeFiles/3.20.0/CMakeCXXCompiler.cmake
+N:/Development/Dev_Base/tiff-4.5.1/msvc/CMakeFiles/3.20.0/CMakeRCCompiler.cmake
+N:/Development/Dev_Base/tiff-4.5.1/msvc/CMakeFiles/3.20.0/CMakeSystem.cmake

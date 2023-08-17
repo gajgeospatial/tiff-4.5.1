@@ -1,0 +1,1 @@
+This module links with and environment variable SQLITE3_DIR set in the envionment

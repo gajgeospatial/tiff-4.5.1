@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindPython/Support.cmake
+C:/Program Files/CMake/share/cmake-3.20/Modules/FindPython3.cmake
+N:/Development/Dev_Base/tiff-4.5.1/cmake/Sphinx.cmake
+N:/Development/Dev_Base/tiff-4.5.1/doc/CMakeLists.txt
