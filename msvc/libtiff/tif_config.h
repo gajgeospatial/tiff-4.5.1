@@ -86,7 +86,9 @@
 /* #undef LERC_SUPPORT */
 
 /* 12bit libjpeg primary include file with path */
-#define LIBJPEG_12_PATH "N:/Development/Dev_Base/jpeg12bit-9c/jpeglib.h"
+//An Evil use of Cmake that makes it more difficult to create relocatable visual studio projects
+//Define this as a preprosser define so it can be relitive
+//#define LIBJPEG_12_PATH "N:/Development/Dev_Base/jpeg12bit-9c/jpeglib.h"
 
 /* Support LZMA2 compression */
 /* #undef LZMA_SUPPORT */
